@@ -6,7 +6,7 @@ Frontend Developer • Aspiring Full Stack Developer • Software Engineering St
  
 <p align="center">
 Building modern, responsive, and user-friendly web experiences.
-</p>   
+</p>    
 
 # 🌐 Muntaha Shafique – Developer Portfolio
 
